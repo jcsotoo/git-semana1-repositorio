@@ -1,0 +1,3 @@
+2do ejemplo de archivo de texto 
+Linea 2: es un buen 2do ejemplo 
+Linea 3: sigue siendo un buen 2do ejemplo 

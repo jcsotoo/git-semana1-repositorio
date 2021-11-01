@@ -1,0 +1,3 @@
+Ejemplo de srchivo de texto 
+Linea 2: es un buen ejemplo 
+Linea 3: sigue siendo un buen ejemplo 
