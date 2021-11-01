@@ -1,0 +1,3 @@
+3er ejemplo de archivo de texto 
+Linea 2: es un buen 3er ejemplo 
+Linea 3: sigue siendo un buen 3er ejemplo 
